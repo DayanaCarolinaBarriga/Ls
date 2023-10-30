@@ -1,0 +1,43 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+  }
+  
+  h1 {
+    color: #333;
+  }
+  
+  label {
+    font-weight: bold;
+    margin-right: 10px;
+  }
+  
+  input {
+    width: 100px;
+    text-align: right;
+    margin-right: 10px;
+  }
+  
+  #integral, #funcion, #resultado {
+    margin: 20px 0;
+  }
+  
+  #integral {
+    font-weight: bold;
+    font-size: 18px;
+    color: #007acc;
+  }
+  
+  #funcion {
+    font-size: 14px;
+    color: #555;
+  }
+  
+  #resultado {
+    font-size: 18px;
+    color: #00a000;
+  }
+  
